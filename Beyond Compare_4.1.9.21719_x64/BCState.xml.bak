@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCState Version="1" MinVersion="1">
+	<TBcState>
+		<FirstStartup Value="False"/>
+		<FormPositions>
+			<TViewFrame Value="78;78;1239;696;3"/>
+		</FormPositions>
+	</TBcState>
+	<TDirCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="C:\Users\ANDREW\Desktop\cmder_mini_1.3.1"/>
+			<_1 Value="E:\cmder_161109"/>
+			<_2 Value="E:\cmder_mini2"/>
+			<_3 Value="E:\cmder"/>
+		</LeftMRUSpecs>
+		<RightMRUSpecs>
+			<_0 Value="E:\test\cmder_mini - 1"/>
+			<_1 Value="E:\cmder_161109_2"/>
+			<_2 Value="E:\cmder_mini"/>
+			<_3 Value="E:\cmder0"/>
+		</RightMRUSpecs>
+	</TDirCompareState>
+	<THomeState>
+		<SessionType Value="TDirCompareSession"/>
+	</THomeState>
+	<TOpCompareState>
+		<Kind Value="ccRulesBased"/>
+	</TOpCompareState>
+	<TTextCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="C:\Users\ANDREW\Desktop\cmder_mini_1.3.1\vendor\sources.json"/>
+			<_1 Value="E:\cmder_161109\vendor\clink.lua"/>
+			<_2 Value="E:\cmder_161109\vendor\profile.ps1"/>
+			<_3 Value="E:\cmder_161109\vendor\sources.json"/>
+			<_4 Value="E:\cmder_161109\vendor\user-aliases.cmd.example"/>
+			<_5 Value="E:\cmder_161109\config\ConEmu.xml"/>
+			<_6 Value="E:\cmder_161109\Version 1.3.1"/>
+			<_7 Value="E:\cmder_mini2\vendor\conemu-maximus5\ConEmu.xml"/>
+			<_8 Value="E:\cmder_mini2\config\.history"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Consolas;10"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="E:\test\cmder_mini - 1\vendor\sources.json"/>
+			<_1 Value="E:\cmder_161109_2\vendor\clink.lua"/>
+			<_2 Value="E:\cmder_161109_2\vendor\profile.ps1"/>
+			<_3 Value="E:\cmder_161109_2\vendor\sources.json"/>
+			<_4 Value="E:\cmder_161109_2\vendor\user-aliases.cmd.example"/>
+			<_5 Value="E:\cmder_161109_2\config\ConEmu.xml"/>
+			<_6 Value="E:\cmder_161109_2\Version 1.3.1"/>
+			<_7 Value="E:\cmder0\config\ConEmu.xml"/>
+			<_8 Value="E:\cmder0\bin\alias.bat"/>
+		</RightMRUSpecs>
+		<ShowItemNum Value="True"/>
+	</TTextCompareState>
+</BCState>

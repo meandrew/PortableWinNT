@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCSessions Version="1" MinVersion="1">
+	<TSessionFolder>
+		<Items>
+			<TSessionFolder>
+				<Items>
+					<TDirCompareSession Value="cmder_mini_1.3.1 &lt;--> cmder_mini - 1">
+						<LastModified Value="2016-11-09 22:54:36"/>
+						<Specs>
+							<Left Value="C:\Users\ANDREW\Desktop\cmder_mini_1.3.1"/>
+							<Right Value="E:\test\cmder_mini - 1"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TTextCompareSession Value="clink.lua">
+						<LastModified Value="2016-11-09 22:54:35"/>
+						<Specs>
+							<Left Value="E:\cmder_161109\vendor\clink.lua"/>
+							<Right Value="E:\cmder_161109_2\vendor\clink.lua"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="profile.ps1">
+						<LastModified Value="2016-11-09 22:54:34"/>
+						<Specs>
+							<Left Value="E:\cmder_161109\vendor\profile.ps1"/>
+							<Right Value="E:\cmder_161109_2\vendor\profile.ps1"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="sources.json">
+						<LastModified Value="2016-11-09 22:54:33"/>
+						<Specs>
+							<Left Value="E:\cmder_161109\vendor\sources.json"/>
+							<Right Value="E:\cmder_161109_2\vendor\sources.json"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="user-aliases.cmd.example">
+						<LastModified Value="2016-11-09 22:54:32"/>
+						<Specs>
+							<Left Value="E:\cmder_161109\vendor\user-aliases.cmd.example"/>
+							<Right Value="E:\cmder_161109_2\vendor\user-aliases.cmd.example"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="ConEmu.xml">
+						<LastModified Value="2016-11-09 22:54:31"/>
+						<Specs>
+							<Left Value="E:\cmder_161109\config\ConEmu.xml"/>
+							<Right Value="E:\cmder_161109_2\config\ConEmu.xml"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="cmder_161109 &lt;--> cmder_161109_2">
+						<LastModified Value="2016-11-09 22:54:30"/>
+						<Specs>
+							<Left Value="E:\cmder_161109"/>
+							<Right Value="E:\cmder_161109_2"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="cmder_mini2 &lt;--> cmder_mini">
+						<LastModified Value="2016-10-30 00:24:58"/>
+						<Specs>
+							<Left Value="E:\cmder_mini2"/>
+							<Right Value="E:\cmder_mini"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="cmder &lt;--> cmder0">
+						<Filters>
+							<NameFilter Value="-.\.svn\"/>
+						</Filters>
+						<LastModified Value="2016-10-30 00:22:29"/>
+						<Specs>
+							<Left Value="E:\cmder"/>
+							<Right Value="E:\cmder0"/>
+						</Specs>
+					</TDirCompareSession>
+				</Items>
+			</TSessionFolder>
+			<TDirCompareSession>
+				<State>
+					<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+				</State>
+			</TDirCompareSession>
+		</Items>
+	</TSessionFolder>
+</BCSessions>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCState Version="1" MinVersion="1">
+	<TBcState>
+		<FirstStartup Value="False"/>
+		<FormPositions>
+			<TViewFrame Value="78;78;1239;696;3"/>
+		</FormPositions>
+	</TBcState>
+	<TDirCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="E:\test\cmder_mini - 1"/>
+			<_1 Value="C:\Users\ANDREW\Desktop\cmder_mini_1.3.1"/>
+			<_2 Value="E:\cmder_161109"/>
+			<_3 Value="E:\cmder_mini2"/>
+			<_4 Value="E:\cmder"/>
+		</LeftMRUSpecs>
+		<RightMRUSpecs>
+			<_0 Value="E:\test\cmder_mini0"/>
+			<_1 Value="E:\test\cmder_mini - 1"/>
+			<_2 Value="E:\cmder_161109_2"/>
+			<_3 Value="E:\cmder_mini"/>
+			<_4 Value="E:\cmder0"/>
+		</RightMRUSpecs>
+	</TDirCompareState>
+	<THomeState>
+		<SessionType Value="TDirCompareSession"/>
+	</THomeState>
+	<TOpCompareState>
+		<Kind Value="ccRulesBased"/>
+	</TOpCompareState>
+	<TTextCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="E:\test\cmder_mini - 1\vendor\conemu-maximus5\.cmderver"/>
+			<_1 Value="E:\test\cmder_mini - 1\vendor\clink.lua"/>
+			<_2 Value="E:\test\cmder_mini - 1\vendor\profile.ps1"/>
+			<_3 Value="E:\test\cmder_mini - 1\vendor\sources.json"/>
+			<_4 Value="E:\test\cmder_mini - 1\vendor\user-aliases.cmd.example"/>
+			<_5 Value="E:\test\cmder_mini - 1\config\ConEmu.xml"/>
+			<_6 Value="C:\Users\ANDREW\Desktop\cmder_mini_1.3.1\vendor\sources.json"/>
+			<_7 Value="E:\cmder_161109\vendor\clink.lua"/>
+			<_8 Value="E:\cmder_161109\vendor\profile.ps1"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Consolas;10"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="E:\test\cmder_mini0\vendor\conemu-maximus5\.cmderver"/>
+			<_1 Value="E:\test\cmder_mini0\vendor\clink.lua"/>
+			<_2 Value="E:\test\cmder_mini0\vendor\profile.ps1"/>
+			<_3 Value="E:\test\cmder_mini0\vendor\sources.json"/>
+			<_4 Value="E:\test\cmder_mini0\vendor\user-aliases.cmd.example"/>
+			<_5 Value="E:\test\cmder_mini0\config\ConEmu.xml"/>
+			<_6 Value="E:\test\cmder_mini - 1\vendor\sources.json"/>
+			<_7 Value="E:\cmder_161109_2\vendor\clink.lua"/>
+			<_8 Value="E:\cmder_161109_2\vendor\profile.ps1"/>
+		</RightMRUSpecs>
+		<ShowItemNum Value="True"/>
+	</TTextCompareState>
+</BCState>
