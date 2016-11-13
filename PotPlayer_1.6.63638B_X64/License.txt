@@ -1,0 +1,18 @@
+﻿
+ 本程序可供个人/企业/学校/政府机关等自由场合任意安装和使用。
+
+* 注意事项
+ - 本程序受著作权法和软件保护法的保护，除保护法条款中允许或非限制的范围以外任何人对本程序进行的逆向工程、反编译、重新组装都将被视为违法。(仅 FFmpeg、lame 遵循其 LGPL 协议。)
+ - 本程序未经著作权公司许可绝对禁止用于商业用途。
+
+* 版权信息
+ - 本程序包含了从 FFmpeg(http://ffmpeg.org) 下载的视频解码器，并遵循其 LGPL 公共许可协议。LGPL 公共许可证书内容请查阅安装目录下的 LGPL.TXT 文件。经修改后的 FFmpeg 源码文件您可从 http://get.daum.net/devel/ffmpeg.zip 下载。
+ - 本程序包含了从 zlib(http://www.zlib.net) 下载的 zip 源码，并遵循 "zlib License" 许可协议。
+ - 本程序包含了从 http://www.rarlab.com 下载的 rar 源码。
+ - 本程序中包含了从 libpng(http://www.libpng.org) 下载的 png 源码，并遵循 "zlib/png License" 公共许可协议。
+ - 本程序中包含了从 Xiph.org(http://www.vorbis.com) 下载的 OGG(V0RBIS) 源码，并遵循 "BSD-like license" 公共许可协议。
+ - 本软件使用的 BASS 系列解码器是直接从 http://www.un4seen.com 下载的。
+ - 本程序使用的 MediaInfo 解析媒体插件是直接从 MediaInfo(http://mediaarea.net) 下载的。
+ - 本程序使用的安装程序是从 NSIS(http://nsis.sourceforge.net) 下载的，并遵循 NSIS 的 "zlib/libpng License" 公共许可协议。
+ - 本程序使用的 ATextOut 字串渲染插件是直接从 FreeType(http://www.freetype.org) 下载的源码。
+ - 本程序著作权归 Kakao 公司 (http://www.daum.net) 所有。
