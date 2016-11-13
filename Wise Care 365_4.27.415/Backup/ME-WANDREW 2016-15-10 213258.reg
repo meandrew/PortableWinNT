@@ -1,0 +1,1997 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache]
+"LangID"=hex:04,08
+
+"C:\\Windows\\System32\\shell32.dll.FriendlyAppName"="Windows Shell 公用 DLL"
+"C:\\Windows\\System32\\shell32.dll.ApplicationCompany"="Microsoft Corporation"
+"C:\\Windows\\system32\\twinui.dll.FriendlyAppName"="TWINUI"
+"C:\\Windows\\system32\\twinui.dll.ApplicationCompany"="Microsoft Corporation"
+"C:\\Windows\\system32\\mmc.exe.FriendlyAppName"="Microsoft 管理控制台"
+"C:\\Windows\\system32\\mmc.exe.ApplicationCompany"="Microsoft Corporation"
+"C:\\Windows\\Explorer.exe.FriendlyAppName"="Windows 资源管理器"
+"C:\\Windows\\Explorer.exe.ApplicationCompany"="Microsoft Corporation"
+"C:\\Program Files (x86)\\TeamViewer\\TeamViewer.exe.FriendlyAppName"="TeamViewer 11"
+"C:\\Program Files (x86)\\TeamViewer\\TeamViewer.exe.ApplicationCompany"="TeamViewer GmbH"
+"C:\\Windows\\system32\\WFS.exe.FriendlyAppName"="Microsoft  Windows Fax and Scan"
+"C:\\Windows\\system32\\WFS.exe.ApplicationCompany"="Microsoft Corporation"
+"C:\\Windows\\System32\\fsquirt.exe.FriendlyAppName"="fsquirt.exe"
+"C:\\Windows\\System32\\fsquirt.exe.ApplicationCompany"="Microsoft Corporation"
+"C:\\Windows\\system32\\NOTEPAD.EXE.FriendlyAppName"="记事本"
+"C:\\Windows\\system32\\NOTEPAD.EXE.ApplicationCompany"="Microsoft Corporation"
+"C:\\Windows\\system32\\explorerframe.dll.FriendlyAppName"="ExplorerFrame"
+"C:\\Windows\\system32\\explorerframe.dll.ApplicationCompany"="Microsoft Corporation"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\Folder]
+"0"=hex:FB,7C,DF,7E,8C,54,89,5B,68,51,00,00,66,00,36,00,00,00,00,00,00,00,00,00,00,00,\
+FB,7C,DF,7E,8C,54,89,5B,68,51,2E,00,6C,00,6E,00,6B,00,00,00,44,00,09,00,04,\
+00,EF,BE,00,00,00,00,00,00,00,00,2E,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,FB,7C,DF,7E,8C,54,89,5B,68,\
+51,2E,00,6C,00,6E,00,6B,00,00,00,22,00,00,00
+
+"MRUListEx"=hex:01,00,00,00,00,00,00,00,FF,FF,FF,FF
+
+"1"=hex:4F,00,6E,00,65,00,4B,00,65,00,79,00,5F,00,37,00,2E,00,32,00,2E,00,32,00,2E,00,\
+37,00,30,00,32,00,00,00,7E,00,32,00,00,00,00,00,00,00,00,00,00,00,4F,6E,65,\
+4B,65,79,5F,37,2E,32,2E,32,2E,37,30,32,2E,6C,6E,6B,00,00,5A,00,09,00,04,00,\
+EF,BE,00,00,00,00,00,00,00,00,2E,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,4F,00,6E,00,65,00,4B,00,65,00,\
+79,00,5F,00,37,00,2E,00,32,00,2E,00,32,00,2E,00,37,00,30,00,32,00,2E,00,6C,\
+00,6E,00,6B,00,00,00,24,00,00,00
+
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.txt]
+"0"=hex:47,00,48,00,4F,00,53,00,54,00,45,00,52,00,52,00,2E,00,54,00,58,00,54,00,00,00,\
+72,00,32,00,00,00,00,00,00,00,00,00,00,00,47,48,4F,53,54,45,52,52,2E,54,58,\
+54,2E,6C,6E,6B,00,00,52,00,09,00,04,00,EF,BE,00,00,00,00,00,00,00,00,2E,00,\
+00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+00,00,00,47,00,48,00,4F,00,53,00,54,00,45,00,52,00,52,00,2E,00,54,00,58,00,\
+54,00,2E,00,6C,00,6E,00,6B,00,00,00,20,00,00,00
+
+"MRUListEx"=hex:00,00,00,00,FF,FF,FF,FF
+
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs]
+"0"=hex:3A,00,3A,00,7B,00,42,00,42,00,30,00,36,00,43,00,30,00,45,00,34,00,2D,00,44,00,\
+32,00,39,00,33,00,2D,00,34,00,46,00,37,00,35,00,2D,00,38,00,41,00,39,00,30,\
+00,2D,00,43,00,42,00,30,00,35,00,42,00,36,00,34,00,37,00,37,00,45,00,45,00,\
+45,00,7D,00,00,00,5A,00,36,00,00,00,00,00,00,00,00,00,00,00,FB,7C,DF,7E,2E,\
+00,6C,00,6E,00,6B,00,00,00,3E,00,09,00,04,00,EF,BE,00,00,00,00,00,00,00,00,\
+2E,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+00,00,00,00,00,FB,7C,DF,7E,2E,00,6C,00,6E,00,6B,00,00,00,1C,00,00,00
+
+"MRUListEx"=hex:03,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,FF,FF,FF,FF
+
+"1"=hex:FB,7C,DF,7E,8C,54,89,5B,68,51,00,00,66,00,36,00,00,00,00,00,00,00,00,00,00,00,\
+FB,7C,DF,7E,8C,54,89,5B,68,51,2E,00,6C,00,6E,00,6B,00,00,00,44,00,09,00,04,\
+00,EF,BE,00,00,00,00,00,00,00,00,2E,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,FB,7C,DF,7E,8C,54,89,5B,68,\
+51,2E,00,6C,00,6E,00,6B,00,00,00,22,00,00,00
+
+"2"=hex:47,00,48,00,4F,00,53,00,54,00,45,00,52,00,52,00,2E,00,54,00,58,00,54,00,00,00,\
+72,00,32,00,00,00,00,00,00,00,00,00,00,00,47,48,4F,53,54,45,52,52,2E,54,58,\
+54,2E,6C,6E,6B,00,00,52,00,09,00,04,00,EF,BE,00,00,00,00,00,00,00,00,2E,00,\
+00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+00,00,00,47,00,48,00,4F,00,53,00,54,00,45,00,52,00,52,00,2E,00,54,00,58,00,\
+54,00,2E,00,6C,00,6E,00,6B,00,00,00,20,00,00,00
+
+"3"=hex:4F,00,6E,00,65,00,4B,00,65,00,79,00,5F,00,37,00,2E,00,32,00,2E,00,32,00,2E,00,\
+37,00,30,00,32,00,00,00,7E,00,32,00,00,00,00,00,00,00,00,00,00,00,4F,6E,65,\
+4B,65,79,5F,37,2E,32,2E,32,2E,37,30,32,2E,6C,6E,6B,00,00,5A,00,09,00,04,00,\
+EF,BE,00,00,00,00,00,00,00,00,2E,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,4F,00,6E,00,65,00,4B,00,65,00,\
+79,00,5F,00,37,00,2E,00,32,00,2E,00,32,00,2E,00,37,00,30,00,32,00,2E,00,6C,\
+00,6E,00,6B,00,00,00,24,00,00,00
+
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.7z]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.cmderver]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.history]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.ini]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.iso]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.man]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.md]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.txt]
+"0"=hex:47,00,48,00,4F,00,53,00,54,00,45,00,52,00,52,00,2E,00,54,00,58,00,54,00,00,00,\
+72,00,32,00,00,00,00,00,00,00,00,00,00,00,47,48,4F,53,54,45,52,52,2E,54,58,\
+54,2E,6C,6E,6B,00,00,52,00,09,00,04,00,EF,BE,00,00,00,00,00,00,00,00,2E,00,\
+00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+00,00,00,47,00,48,00,4F,00,53,00,54,00,45,00,52,00,52,00,2E,00,54,00,58,00,\
+54,00,2E,00,6C,00,6E,00,6B,00,00,00,20,00,00,00
+
+"MRUListEx"=hex:00,00,00,00,FF,FF,FF,FF
+
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.xml]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.zip]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\Folder]
+"0"=hex:FB,7C,DF,7E,8C,54,89,5B,68,51,00,00,66,00,36,00,00,00,00,00,00,00,00,00,00,00,\
+FB,7C,DF,7E,8C,54,89,5B,68,51,2E,00,6C,00,6E,00,6B,00,00,00,44,00,09,00,04,\
+00,EF,BE,00,00,00,00,00,00,00,00,2E,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,FB,7C,DF,7E,8C,54,89,5B,68,\
+51,2E,00,6C,00,6E,00,6B,00,00,00,22,00,00,00
+
+"MRUListEx"=hex:01,00,00,00,00,00,00,00,FF,FF,FF,FF
+
+"1"=hex:4F,00,6E,00,65,00,4B,00,65,00,79,00,5F,00,37,00,2E,00,32,00,2E,00,32,00,2E,00,\
+37,00,30,00,32,00,00,00,7E,00,32,00,00,00,00,00,00,00,00,00,00,00,4F,6E,65,\
+4B,65,79,5F,37,2E,32,2E,32,2E,37,30,32,2E,6C,6E,6B,00,00,5A,00,09,00,04,00,\
+EF,BE,00,00,00,00,00,00,00,00,2E,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,4F,00,6E,00,65,00,4B,00,65,00,\
+79,00,5F,00,37,00,2E,00,32,00,2E,00,32,00,2E,00,37,00,30,00,32,00,2E,00,6C,\
+00,6E,00,6B,00,00,00,24,00,00,00
+
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.json]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.json\OpenWithList]
+
+[HKEY_CURRENT_USER\SOFTWARE\MozillaPlugins]
+
+[HKEY_CURRENT_USER\Software\DownloadManager\9]
+"LocalFileName"="C:\\Users\\ANDREW\\AppData\\Roaming\\IDM\\DwnlData\\ANDREW\\python-2.7.12_9\\python-2.7.12.msi"
+"LocalPath"="C:\\Users\\ANDREW\\AppData\\Roaming\\IDM\\DwnlData\\ANDREW\\python-2.7.12_9\\"
+"LogFileName"="C:\\Users\\ANDREW\\AppData\\Roaming\\IDM\\DwnlData\\ANDREW\\python-2.7.12_9\\python-2_9.log"
+"Host"="www.python.org"
+"Path"="/ftp/python/2.7.12/"
+"FileName"="python-2.7.12.msi"
+"User"="anonymous"
+""
+"UA"="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36"
+"Cookie"="__utmt=1; __utma=32101439.1920845241.1476448818.1476448818.1476448818.1; __utmb=32101439.4.10.1476448818; __utmc=32101439; __utmz=32101439.1476448818.1.1.utmcsr=baidu|utmccn=(organic)|utmcmd=organic"
+"TPswitch"=dword:00000002
+"Port"=dword:000001BB
+"categoryID"=dword:00000001
+"CISBU"=dword:00000000
+"cFlags"=dword:00180004
+"owWPage"="https://www.python.org/downloads/release/python-2712/"
+"Url0"="https://www.python.org/ftp/python/2.7.12/python-2.7.12.msi"
+""
+"dateAdded"="Oct 14 20:58:15 2016"
+"Status"=dword:00000003
+"queueID"=dword:00000000
+"lastTryDate"="Oct 14 20:58:15 2016"
+"U0_c"="__utmt=1; __utma=32101439.1920845241.1476448818.1476448818.1476448818.1; __utmb=32101439.4.10.1476448818; __utmc=32101439; __utmz=32101439.1476448818.1.1.utmcsr=baidu|utmccn=(organic)|utmcmd=organic"
+"U0_u"="anonymous"
+""
+"bOUD_Ch"=dword:00000001
+""
+"LastModified"="Mon, 27 Jun 2016 15:52:46 GMT"
+"FRCType"="application/octet-stream"
+""
+"AccLngH"="zh-CN"
+"bGICompl"=dword:00000001
+"bRetAfFR"=dword:00000000
+""
+""
+"Speed"=dword:00002CFA
+"bSaved"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\DownloadManager\9\ChList]
+
+[HKEY_CURRENT_USER\Software\DownloadManager\8]
+"LocalFileName"="C:\\Users\\ANDREW\\AppData\\Roaming\\IDM\\DwnlData\\ANDREW\\python-2.7.12.amd64_8\\python-2.7.12.amd64.msi"
+"LocalPath"="C:\\Users\\ANDREW\\AppData\\Roaming\\IDM\\DwnlData\\ANDREW\\python-2.7.12.amd64_8\\"
+"LogFileName"="C:\\Users\\ANDREW\\AppData\\Roaming\\IDM\\DwnlData\\ANDREW\\python-2.7.12.amd64_8\\python-2_8.log"
+"Host"="www.python.org"
+"Path"="/ftp/python/2.7.12/"
+"FileName"="python-2.7.12.amd64.msi"
+"User"="anonymous"
+""
+"UA"="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36"
+"Cookie"="__utmt=1; __utma=32101439.1920845241.1476448818.1476448818.1476448818.1; __utmb=32101439.4.10.1476448818; __utmc=32101439; __utmz=32101439.1476448818.1.1.utmcsr=baidu|utmccn=(organic)|utmcmd=organic"
+"TPswitch"=dword:00000002
+"Port"=dword:000001BB
+"categoryID"=dword:00000001
+"CISBU"=dword:00000000
+"cFlags"=dword:00180004
+"owWPage"="https://www.python.org/downloads/release/python-2712/"
+"Url0"="https://www.python.org/ftp/python/2.7.12/python-2.7.12.amd64.msi"
+""
+"dateAdded"="Oct 14 20:58:11 2016"
+"Status"=dword:00000003
+"queueID"=dword:00000000
+"lastTryDate"="Oct 14 20:58:11 2016"
+"U0_c"="__utmt=1; __utma=32101439.1920845241.1476448818.1476448818.1476448818.1; __utmb=32101439.4.10.1476448818; __utmc=32101439; __utmz=32101439.1476448818.1.1.utmcsr=baidu|utmccn=(organic)|utmcmd=organic"
+"U0_u"="anonymous"
+""
+"bOUD_Ch"=dword:00000001
+"LastModified"="Mon, 27 Jun 2016 15:52:43 GMT"
+"FRCType"="application/octet-stream"
+""
+"AccLngH"="zh-CN"
+"bGICompl"=dword:00000001
+"bRetAfFR"=dword:00000000
+""
+""
+""
+"Speed"=dword:00000376
+"bSaved"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\DownloadManager\8\ChList]
+
+[HKEY_CURRENT_USER\Software\DownloadManager\7]
+"LocalFileName"="C:\\Users\\ANDREW\\AppData\\Roaming\\IDM\\DwnlData\\ANDREW\\python-3.5.2_7\\python-3.5.2.exe"
+"LocalPath"="C:\\Users\\ANDREW\\AppData\\Roaming\\IDM\\DwnlData\\ANDREW\\python-3.5.2_7\\"
+"LogFileName"="C:\\Users\\ANDREW\\AppData\\Roaming\\IDM\\DwnlData\\ANDREW\\python-3.5.2_7\\python-3_7.log"
+"Host"="www.python.org"
+"Path"="/ftp/python/3.5.2/"
+"FileName"="python-3.5.2.exe"
+"User"="anonymous"
+""
+"UA"="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36"
+"Cookie"="__utmt=1; __utma=32101439.1920845241.1476448818.1476448818.1476448818.1; __utmb=32101439.3.10.1476448818; __utmc=32101439; __utmz=32101439.1476448818.1.1.utmcsr=baidu|utmccn=(organic)|utmcmd=organic"
+"TPswitch"=dword:00000002
+"Port"=dword:000001BB
+"categoryID"=dword:00000001
+"CISBU"=dword:00000000
+"cFlags"=dword:00180004
+"owWPage"="https://www.python.org/downloads/release/python-352/"
+"Url0"="https://www.python.org/ftp/python/3.5.2/python-3.5.2.exe"
+""
+"dateAdded"="Oct 14 20:43:11 2016"
+"Status"=dword:00000003
+"queueID"=dword:00000000
+"lastTryDate"="Oct 14 20:43:11 2016"
+"U0_c"="__utmt=1; __utma=32101439.1920845241.1476448818.1476448818.1476448818.1; __utmb=32101439.3.10.1476448818; __utmc=32101439; __utmz=32101439.1476448818.1.1.utmcsr=baidu|utmccn=(organic)|utmcmd=organic"
+"U0_u"="anonymous"
+""
+"bOUD_Ch"=dword:00000001
+""
+"LastModified"="Mon, 27 Jun 2016 03:13:35 GMT"
+"FRCType"="application/octet-stream"
+""
+"AccLngH"="zh-CN"
+"bGICompl"=dword:00000001
+"bRetAfFR"=dword:00000000
+""
+""
+"Speed"=dword:00001A80
+"bSaved"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\DownloadManager\7\ChList]
+
+[HKEY_CURRENT_USER\Software\DownloadManager\6]
+"LocalFileName"="C:\\Users\\ANDREW\\AppData\\Roaming\\IDM\\DwnlData\\ANDREW\\python-3.5.2-amd64_6\\python-3.5.2-amd64.exe"
+"LocalPath"="C:\\Users\\ANDREW\\AppData\\Roaming\\IDM\\DwnlData\\ANDREW\\python-3.5.2-amd64_6\\"
+"LogFileName"="C:\\Users\\ANDREW\\AppData\\Roaming\\IDM\\DwnlData\\ANDREW\\python-3.5.2-amd64_6\\python-3_6.log"
+"Host"="www.python.org"
+"Path"="/ftp/python/3.5.2/"
+"FileName"="python-3.5.2-amd64.exe"
+"User"="anonymous"
+""
+"UA"="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36"
+"Cookie"="__utmt=1; __utma=32101439.1920845241.1476448818.1476448818.1476448818.1; __utmb=32101439.3.10.1476448818; __utmc=32101439; __utmz=32101439.1476448818.1.1.utmcsr=baidu|utmccn=(organic)|utmcmd=organic"
+"TPswitch"=dword:00000002
+"Port"=dword:000001BB
+"categoryID"=dword:00000001
+"CISBU"=dword:00000000
+"cFlags"=dword:00180004
+"owWPage"="https://www.python.org/downloads/release/python-352/"
+"Url0"="https://www.python.org/ftp/python/3.5.2/python-3.5.2-amd64.exe"
+""
+"dateAdded"="Oct 14 20:43:05 2016"
+"Status"=dword:00000003
+"queueID"=dword:00000000
+"lastTryDate"="Oct 14 20:43:05 2016"
+"U0_c"="__utmt=1; __utma=32101439.1920845241.1476448818.1476448818.1476448818.1; __utmb=32101439.3.10.1476448818; __utmc=32101439; __utmz=32101439.1476448818.1.1.utmcsr=baidu|utmccn=(organic)|utmcmd=organic"
+"U0_u"="anonymous"
+""
+"bOUD_Ch"=dword:00000001
+""
+"LastModified"="Mon, 27 Jun 2016 03:14:39 GMT"
+"FRCType"="application/octet-stream"
+""
+"AccLngH"="zh-CN"
+"bGICompl"=dword:00000001
+"bRetAfFR"=dword:00000000
+""
+""
+"Speed"=dword:0000BEF1
+"bSaved"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\DownloadManager\6\ChList]
+
+[HKEY_CURRENT_USER\Software\DownloadManager\5]
+"LocalFileName"="C:\\Users\\ANDREW\\AppData\\Roaming\\IDM\\DwnlData\\ANDREW\\python-3.5.2-embed-win32_5\\python-3.5.2-embed-win32.zip"
+"LocalPath"="C:\\Users\\ANDREW\\AppData\\Roaming\\IDM\\DwnlData\\ANDREW\\python-3.5.2-embed-win32_5\\"
+"LogFileName"="C:\\Users\\ANDREW\\AppData\\Roaming\\IDM\\DwnlData\\ANDREW\\python-3.5.2-embed-win32_5\\python-3_5.log"
+"Host"="www.python.org"
+"Path"="/ftp/python/3.5.2/"
+"FileName"="python-3.5.2-embed-win32.zip"
+"User"="anonymous"
+""
+"UA"="Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko"
+"TPswitch"=dword:00000002
+"Port"=dword:000001BB
+"categoryID"=dword:00000007
+"CISBU"=dword:00000000
+"cFlags"=dword:00000000
+"Url0"="https://www.python.org/ftp/python/3.5.2/python-3.5.2-embed-win32.zip"
+"dateAdded"="Oct 14 20:42:46 2016"
+"Status"=dword:00000003
+"queueID"=dword:00000000
+"lastTryDate"="Oct 14 20:42:46 2016"
+"U0_u"="anonymous"
+""
+"bOUD_Ch"=dword:00000001
+""
+"LastModified"="Mon, 27 Jun 2016 03:13:37 GMT"
+"FRCType"="application/zip"
+""
+"AccLngH"="zh-CN"
+"bGICompl"=dword:00000001
+"bRetAfFR"=dword:00000000
+""
+""
+"Speed"=dword:000057A0
+"fGDFE"=dword:00000003
+"bSaved"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\DownloadManager\5\ChList]
+
+[HKEY_CURRENT_USER\Software\DownloadManager\4]
+"LocalFileName"="C:\\Users\\ANDREW\\AppData\\Roaming\\IDM\\DwnlData\\ANDREW\\python-3.5.2-embed-amd64_4\\python-3.5.2-embed-amd64.zip"
+"LocalPath"="C:\\Users\\ANDREW\\AppData\\Roaming\\IDM\\DwnlData\\ANDREW\\python-3.5.2-embed-amd64_4\\"
+"LogFileName"="C:\\Users\\ANDREW\\AppData\\Roaming\\IDM\\DwnlData\\ANDREW\\python-3.5.2-embed-amd64_4\\python-3_4.log"
+"Host"="www.python.org"
+"Path"="/ftp/python/3.5.2/"
+"FileName"="python-3.5.2-embed-amd64.zip"
+"User"="anonymous"
+""
+"UA"="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36"
+"Referer"="https://www.python.org/downloads/release/python-352/"
+"Cookie"="__utmt=1; __utma=32101439.1920845241.1476448818.1476448818.1476448818.1; __utmb=32101439.3.10.1476448818; __utmc=32101439; __utmz=32101439.1476448818.1.1.utmcsr=baidu|utmccn=(organic)|utmcmd=organic"
+"TPswitch"=dword:00000002
+"Port"=dword:000001BB
+"categoryID"=dword:00000007
+"CISBU"=dword:00000000
+"cFlags"=dword:00080008
+"cFromDll"="chrome*exe"
+"FRCType"="application/zip"
+"owWPage"="https://www.python.org/downloads/release/python-352/"
+"Url0"="https://www.python.org/ftp/python/3.5.2/python-3.5.2-embed-amd64.zip"
+""
+"AccLngH"="zh-CN,zh;q=0.8"
+"AccH"="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+""
+"dateAdded"="Oct 14 20:42:18 2016"
+"Status"=dword:00000003
+"queueID"=dword:00000000
+"lastTryDate"="Oct 14 20:42:19 2016"
+"U0_c"="__utmt=1; __utma=32101439.1920845241.1476448818.1476448818.1476448818.1; __utmb=32101439.3.10.1476448818; __utmc=32101439; __utmz=32101439.1476448818.1.1.utmcsr=baidu|utmccn=(organic)|utmcmd=organic"
+"U0_u"="anonymous"
+""
+"bOUD_Ch"=dword:00000001
+"LastModified"="Mon, 27 Jun 2016 03:14:40 GMT"
+"bGICompl"=dword:00000001
+"bRetAfFR"=dword:00000000
+""
+""
+"Speed"=dword:000003E1
+""
+"fGDFE"=dword:00000003
+"bSaved"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\DownloadManager\4\ChList]
+
+[HKEY_CURRENT_USER\Software\DownloadManager\11]
+"LocalFileName"="C:\\Users\\ANDREW\\AppData\\Roaming\\IDM\\DwnlData\\ANDREW\\github-cloud_s3_amazonaws_com_11\\github-cloud_s3_amazonaws_com"
+"LocalPath"="C:\\Users\\ANDREW\\AppData\\Roaming\\IDM\\DwnlData\\ANDREW\\github-cloud_s3_amazonaws_com_11\\"
+"LogFileName"="C:\\Users\\ANDREW\\AppData\\Roaming\\IDM\\DwnlData\\ANDREW\\github-cloud_s3_amazonaws_com_11\\log_11.log"
+"Host"="github-cloud.s3.amazonaws.com"
+"Path"="/releases/11276147/"
+"FileName"="ae9200e2-49a5-11e6-9d54-31082f555304.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAISTNZFOVBIJMK3TQ%2F20161014%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20161014T161742Z&X-Amz-Expires=300&X-Amz-Signature=9abea85f906297486ae864add7ea7fce20f0f36e2e822eba019b7f59f96b44b0&X-Amz-SignedHeaders=host&actor_id=0&response-content-disposition=attachment%3B%20filename%3Dcmder_mini.zip&response-content-type=application%2Foctet-stream"
+"User"="anonymous"
+""
+"UA"="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36"
+"Referer"="https://github.com/cmderdev/cmder/releases/"
+"TPswitch"=dword:00000002
+"Port"=dword:000001BB
+"categoryID"=dword:00000007
+"CISBU"=dword:00000000
+"cFlags"=dword:00080010
+"cFromDll"="chrome*exe"
+"FRCType"="application/octet-stream"
+"owWPage"="https://github.com/cmderdev/cmder/releases/"
+"Url0"="https://github.com/cmderdev/cmder/releases/download/v1.3.0/cmder_mini.zip"
+"U0_c"="logged_in=no; _octo=GH1.1.227469921.1476461787; _gat=1; _gh_sess=eyJzZXNzaW9uX2lkIjoiOWQzMzBmOGMxZjFmY2Q1YmVlOWM1MjY5MzZmMTQ3N2EiLCJyZWZlcnJhbF9jb2RlIjoiaHR0cDovL2NtZGVyLm5ldC8iLCJzcHlfcmVwbyI6ImNtZGVyZGV2L2NtZGVyIiwic3B5X3JlcG9fYXQiOjE0NzY0NjE4MDcsIl9jc3JmX3Rva2VuIjoiQW5VVmM2ODZ3TEw4SkNoSWR0RWhBZytUa3gyaE42TUhMTndlM1hQdnphTT0ifQ%3D%3D--0b30026f8ba551608cf1280bccdaee56a3b2849f; _ga=GA1.2.1226321955.1476461787; tz=Asia%2FShanghai"
+""
+"AccLngH"="zh-CN,zh;q=0.8"
+"AccH"="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+"bOUD_Ch"=dword:00000001
+""
+"dateAdded"="Oct 15 00:17:46 2016"
+"Status"=dword:00000003
+"queueID"=dword:00000000
+"lastTryDate"="Oct 15 00:17:46 2016"
+""
+"LastModified"="Thu, 14 Jul 2016 07:34:11 GMT"
+"FR_FNCD"="cmder_mini.zip"
+"bGICompl"=dword:00000001
+"bRetAfFR"=dword:00000000
+""
+""
+"Speed"=dword:00002F5A
+"fGDFE"=dword:00000003
+"bSaved"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\DownloadManager\11\ChList]
+
+[HKEY_CURRENT_USER\Software\BA Programs\HotKeyPlus\Keys\004]
+"Key"="Z"
+"Modifier"=dword:00000007
+"CommandLine"="C:\\Users\\ANDREW\\Desktop\\快捷方式\\cmd\\open_e.cmd"
+"WorkingDirectory"="C:\\Users\\ANDREW\\Desktop\\快捷方式\\cmd\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Realtek Semiconductor Corp.]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Realtek Semiconductor Corp.\Realtek High Definition Audio Driver]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Realtek Semiconductor Corp.\Realtek High Definition Audio Driver\4.31]
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\Realtek\Audio\Installer]
+"OSVer"="10.0"
+"HDAPnPID_0"="HDAUDIO\\FUNC_01&VEN_10EC&DEV_0272&SUBSYS_10250482"
+"HDAPnPID_1"="HDAUDIO\\FUNC_01&VEN_1002&DEV_AA01&SUBSYS_00AA0100"
+"BUSDrvVersion"="6.3.14393.0"
+"ProgramFilesDir"="C:\\Program Files (x86)\\Realtek\\Audio\\Drivers\\Vista64"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\MyDrivers\DriverGenius]
+"WorkPath"="D:\\MyDrivers\\DriverGenius"
+"AppPath"="D:\\MyDrivers\\DriverGenius"
+"UUID"="5924d09b-c837-4f3b-a9d0-540cd889e47e"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\MyDrivers\DriverGenius\report]
+"duba_ccResult_lsuc"="2016-10-09 -1492052313-0"
+"duba_ccResult_suc"="2016-10-09 -1492052313"
+"Pnv"=dword:A71116A7
+"PPnv"=dword:000016A7
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\MyDrivers\DriverGenius\Update]
+"KisliveUpdateTime"="2016:10:09 22:00:08"
+"cs3failtimes"=dword:00000000
+"cs3oddtime"="20161009220008"
+"TryNo"=dword:000006BA
+"updatetime"=hex:E0,33,0D,2F,78,22,D2,01
+
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\Mozilla\Mozilla Firefox 45.4.0 ESR\extensions]
+"Components"="C:\\Program Files (x86)\\Mozilla Firefox\\components"
+"Plugins"="C:\\Program Files (x86)\\Mozilla Firefox\\plugins"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\kingsoft]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\kingsoft\NeedReboot]
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25]
+"ProductName"="HDMI 音频驱动程序"
+"PackageName"="AtihdWT6.msi"
+"PackagePath"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Drivers\\WDM\\HDMI\\WT64A\\"
+"DrvStoreInfPath"="C:\\Windows\\System32\\DriverStore\\FileRepository\\atihdwt6.inf_amd64_87f813821358c4b3\\atihdwt6.inf"
+"DrivePackageInfPath"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Drivers\\WDM\\HDMI\\WT64A\\AtihdWT6.INF"
+"BackupPackagePath"=""
+"ProductGUID"="{62E03757-1E07-4038-B1F3-81B2C485A03C}"
+"UpgradeGUID"="{1D33FAB1-E76C-4155-B856-EA9F8AE96617}"
+"ATI_PID"="W-06-0001-000-001-039-001-00-25"
+"ATI_Build_id"="187327"
+"OEM_ID"=" "
+"ProductVersion"="10.0.0.01"
+"PackageType"=dword:00000002
+"DriverFilesNotRemoved"="No"
+"NoUninstallSupport"="No"
+"GroupSelectAll"="No"
+"MfgName"="Advanced Micro Devices, Inc."
+"PackageDescription"="AMD HDMI 音频设备驱动程序"
+"InstallFile"="AtihdWT6.MSI"
+"InstallOrder"=dword:00000025
+"breboot_req"=dword:00000000
+"RebootInstallCondition"=""
+"breboot_uninstall_req"=dword:00000000
+"RebootUninstallCondition"=""
+"iVisible"=dword:00000001
+"iInstallSuccess"=dword:00000000
+"UninstallCmdLine_silent"=" "
+"Date"=""
+"PackageSize"=dword:00040F7A
+"ProductSize"=dword:00000001
+"iPackageLevel"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization]
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\ARB]
+"ProductName"="AMD HDMI/DP Audio driver"
+"PackageDescription"="AMD HDMI/DP Audio driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\CHS]
+"ProductName"="HDMI 音频驱动程序"
+"PackageDescription"="AMD HDMI 音频设备驱动程序"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\CHT]
+"ProductName"="HDMI 音訊驅動程式"
+"PackageDescription"="AMD HDMI 音訊裝置驅動程式"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\CSY]
+"ProductName"="Ovlada? pro zvukové za?ízení HDMI"
+"PackageDescription"="Ovlada?e pro zvukové za?ízení AMD HDMI"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\DAN]
+"ProductName"="HDMI lyddriver"
+"PackageDescription"="Drivere til AMD HDMI lydenhed"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\DEU]
+"ProductName"="HDMI-Audiotreiber"
+"PackageDescription"="Treiber für das AMD HDMI-Audioger?t"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\ENU]
+"ProductName"="HDMI Audio Driver"
+"PackageDescription"="Drivers for AMD HDMI Audio Device"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\ESP]
+"ProductName"="Controlador de Audio HDMI"
+"PackageDescription"="Controladores para Dispositivo de Audio AMD HDMI"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\FIN]
+"ProductName"="HDMI-??niohjain"
+"PackageDescription"="AMD HDMI -??nilaitteen ohjaimet"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\FRA]
+"ProductName"="Pilote audio HDMI"
+"PackageDescription"="Pilotes pour périphérique audio HDMI AMD"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\GRK]
+"ProductName"="Πρ?γραμμα οδ?γηση? ?χου HDMI"
+"PackageDescription"="Προγρ?μματα οδ?γ. για συσκευ? ?χου HDMI τη? AMD"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\HBR]
+"ProductName"="AMD HDMI/DP Audio driver"
+"PackageDescription"="AMD HDMI/DP Audio driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\HNG]
+"ProductName"="HDMI audio illeszt?program"
+"PackageDescription"="Illeszt?programok az AMD HDMI audio eszk?zh?z"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\ITA]
+"ProductName"="Driver audio HDMI"
+"PackageDescription"="Driver per la periferica audio AMD HDMI"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\JPN]
+"ProductName"="HDMI オーディオ ドライバー"
+"PackageDescription"="AMD HDMI オーディオ デバイス用ドライバー"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\KOR]
+"ProductName"="HDMI ??? ????"
+"PackageDescription"="AMD HDMI ??? ??? ????"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\NLD]
+"ProductName"="HDMI-geluidsstuurprogramma"
+"PackageDescription"="Stuurprogramma's voor AMD HDMI-geluidsapparaat"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\NOR]
+"ProductName"="HDMI-lyddriver"
+"PackageDescription"="Drivere for AMD HDMI-lydenhet"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\PLK]
+"ProductName"="Sterownik audio HDMI"
+"PackageDescription"="Sterowniki urz?dzenia audio HDMI AMD"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\PTB]
+"ProductName"="Driver de áudio HDMI"
+"PackageDescription"="Drivers para dispositivo de áudio HDMI AMD"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\RSA]
+"ProductName"="Аудиодрайвер HDMI"
+"PackageDescription"="Драйверы для аудиоустройства AMD HDMI"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\SVE]
+"ProductName"="Drivrutin f?r HDMI-ljud"
+"PackageDescription"="Drivrutiner f?r AMD HDMI-ljudenhet"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\THA]
+"ProductName"="?????????????? HDMI"
+"PackageDescription"="??????????????????????????? AMD HDMI"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\TRK]
+"ProductName"="HDMI Ses Sürücüsü"
+"PackageDescription"="AMD HDMI Ses Ayg?t? Sürücüleri"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25]
+"ProductName"="AMD AUDIO filter driver"
+"PackageName"="amdkmafd.msi"
+"PackagePath"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Drivers\\amdkmafd\\WT64A\\"
+"DrvStoreInfPath"="C:\\Windows\\System32\\DriverStore\\FileRepository\\amdkmafd.inf_amd64_fa259afa43660a25\\amdkmafd.inf"
+"DrivePackageInfPath"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Drivers\\amdkmafd\\WT64A\\amdkmafd.INF"
+"BackupPackagePath"=""
+"ProductGUID"="{8618695E-DF7C-402C-A597-E528FEA3F601}"
+"UpgradeGUID"="{45B3223C-741E-4835-94DA-A48A0ED10EDA}"
+"ATI_PID"="W-06-0301-000-001-070-001-00-25"
+"ATI_Build_id"="184091"
+"OEM_ID"=" "
+"ProductVersion"="15.20.0.0000"
+"PackageType"=dword:00000002
+"DriverFilesNotRemoved"="No"
+"NoUninstallSupport"="No"
+"GroupSelectAll"="No"
+"MfgName"="Advanced Micro Devices Inc."
+"PackageDescription"="AMD AUDIO filter driver"
+"InstallFile"="amdkmafd.MSI"
+"InstallOrder"=dword:00000013
+"breboot_req"=dword:00000001
+"RebootInstallCondition"=""
+"breboot_uninstall_req"=dword:00000000
+"RebootUninstallCondition"=""
+"iVisible"=dword:00000003
+"iInstallSuccess"=dword:00000000
+"UninstallCmdLine_silent"=" "
+"Date"=""
+"PackageSize"=dword:0001E5E1
+"ProductSize"=dword:00000001
+"iPackageLevel"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\DepIncl]
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\DepIncl\W-06-0001-000-001-001-001-00-00]
+"Version"="*.*.*.*"
+"bCheckVer"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization]
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\ARB]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\CHS]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\CHT]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\CSY]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\DAN]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\DEU]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\ENU]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\ESP]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\FIN]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\FRA]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\GRK]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\HBR]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\HNG]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\ITA]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\JPN]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\KOR]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\NLD]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\NOR]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\PLK]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\PTB]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\RSA]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\SVE]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\THA]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\TRK]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00]
+"ProductName"="AMD 显示驱动程序"
+"PackageName"="C0187327.msi"
+"PackagePath"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Drivers\\Display\\WT6A_INF\\"
+"DrvStoreInfPath"="C:\\Windows\\System32\\DriverStore\\FileRepository\\c0187327.inf_amd64_fe73cd7e88e37c2b\\c0187327.inf"
+"DrivePackageInfPath"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Drivers\\Display\\WT6A_INF\\C0187327.INF"
+"BackupPackagePath"=""
+"ProductGUID"="{24081A9C-8411-4541-AE31-86E1BBF5FE02}"
+"UpgradeGUID"="{0918E63D-7C5C-4D8E-A449-41D7921E389F}"
+"ATI_PID"="W-06-0001-000-001-001-001-00-00"
+"ATI_Build_id"="187327"
+"OEM_ID"=" "
+"ProductVersion"="15.200.1062.1002"
+"PackageType"=dword:00000002
+"DriverFilesNotRemoved"="No"
+"NoUninstallSupport"="No"
+"GroupSelectAll"="No"
+"IsPXDriver"=dword:00000001
+"MfgName"="Advanced Micro Devices, Inc."
+"PackageDescription"="适用于 AMD 显示适配器的驱动程序"
+"InstallFile"="C0187327.MSI"
+"InstallOrder"=dword:00000015
+"breboot_req"=dword:00000000
+"RebootInstallCondition"=""
+"breboot_uninstall_req"=dword:00000001
+"RebootUninstallCondition"=""
+"iVisible"=dword:00000001
+"iInstallSuccess"=dword:00000003
+"UninstallCmdLine_silent"=" "
+"Date"=""
+"PackageSize"=dword:0F9C218D
+"ProductSize"=dword:0000005A
+"iPackageLevel"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization]
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\ARB]
+"ProductName"="?????? ????? ????? AMD"
+"PackageDescription"="?????? ????? ????? ??? AMD"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\CHS]
+"ProductName"="AMD 显示驱动程序"
+"PackageDescription"="适用于 AMD 显示适配器的驱动程序"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\CHT]
+"ProductName"="AMD 顯示器驅動程式"
+"PackageDescription"="AMD 顯示卡專用驅動程式"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\CSY]
+"ProductName"="Graficky ovlada? AMD"
+"PackageDescription"="Ovlada? pro graficky adaptér AMD"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\DAN]
+"ProductName"="AMD-sk?rmdriver"
+"PackageDescription"="Driver til AMD-sk?rm-adapter"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\DEU]
+"ProductName"="AMD-Bildschirmtreiber"
+"PackageDescription"="Treiber für AMD-Grafikkarte"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\ENU]
+"ProductName"="AMD Display Driver"
+"PackageDescription"="Driver for AMD Display Adapter"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\ESP]
+"ProductName"="Controlador de pantalla AMD"
+"PackageDescription"="Controlador para el adaptador de pantalla AMD"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\FIN]
+"ProductName"="AMD-n?yt?nohjain"
+"PackageDescription"="AMD-n?ytt?sovittimen ohjain"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\FRA]
+"ProductName"="Pilote d'affichage AMD"
+"PackageDescription"="Pilote d'adaptateur d'affichage AMD"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\GRK]
+"ProductName"="Πρ?γραμμα οδ?γηση? οθ?νη? AMD"
+"PackageDescription"="Πρ?γραμμα οδ?γηση? για προσαρμογ?α οθ?νη? AMD"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\HBR]
+"ProductName"="???? ???? ????? ?? AMD"
+"PackageDescription"="???? ???? ???? ???? ????? ?? AMD"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\HNG]
+"ProductName"="AMD videokártya-illeszt?program"
+"PackageDescription"="Illeszt?program AMD videokártyához"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\ITA]
+"ProductName"="Driver video AMD"
+"PackageDescription"="Driver per scheda video AMD"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\JPN]
+"ProductName"="AMD ディスプレイ ドライバー"
+"PackageDescription"="AMD ディスプレイ アダプター用のドライバー"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\KOR]
+"ProductName"="AMD ????? ????"
+"PackageDescription"="AMD ????? ???? ????"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\NLD]
+"ProductName"="AMD-beeldschermstuurprogramma"
+"PackageDescription"="Stuurprogramma voor AMD-beeldschermadapter"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\NOR]
+"ProductName"="AMD-skjermdriver"
+"PackageDescription"="Driver for AMD-skjermkort"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\PLK]
+"ProductName"="Sterownik ekranu AMD"
+"PackageDescription"="Sterownik dla adaptera graficznego AMD"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\PTB]
+"ProductName"="Driver de vídeo AMD"
+"PackageDescription"="Driver para adaptador de vídeo da AMD"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\RSA]
+"ProductName"="Драйвер дисплея AMD"
+"PackageDescription"="Драйвер видеоплаты AMD"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\SVE]
+"ProductName"="AMD-grafikdrivrutin"
+"PackageDescription"="Drivrutin f?r AMD-grafikkort"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\THA]
+"ProductName"="???????? AMD Display"
+"PackageDescription"="?????????????? AMD Display Adaptor"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\TRK]
+"ProductName"="AMD Ekran Sürücüsü"
+"PackageDescription"="AMD Ekran Ba?da?t?r?c?s? i?in Sürücü"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages]
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25]
+"ProductName"="AMD AUDIO filter driver"
+"PackageName"="amdkmafd.msi"
+"PackagePath"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Drivers\\amdkmafd\\WT64A\\"
+"DrvStoreInfPath"="C:\\Windows\\System32\\DriverStore\\FileRepository\\amdkmafd.inf_amd64_fa259afa43660a25\\amdkmafd.inf"
+"DrivePackageInfPath"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Drivers\\amdkmafd\\WT64A\\amdkmafd.INF"
+"BackupPackagePath"=""
+"ProductGUID"="{8618695E-DF7C-402C-A597-E528FEA3F601}"
+"UpgradeGUID"="{45B3223C-741E-4835-94DA-A48A0ED10EDA}"
+"ATI_PID"="W-06-0301-000-001-070-001-00-25"
+"ATI_Build_id"="184091"
+"OEM_ID"=" "
+"ProductVersion"="15.20.0.0000"
+"PackageType"=dword:00000002
+"DriverFilesNotRemoved"="No"
+"NoUninstallSupport"="No"
+"GroupSelectAll"="No"
+"MfgName"="Advanced Micro Devices Inc."
+"PackageDescription"="AMD AUDIO filter driver"
+"InstallFile"="amdkmafd.MSI"
+"InstallOrder"=dword:00000013
+"breboot_req"=dword:00000001
+"RebootInstallCondition"=""
+"breboot_uninstall_req"=dword:00000000
+"RebootUninstallCondition"=""
+"iVisible"=dword:00000003
+"iInstallSuccess"=dword:00000000
+"UninstallCmdLine_silent"=" "
+"Date"=""
+"PackageSize"=dword:0001E5E1
+"ProductSize"=dword:00000001
+"iPackageLevel"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\DepIncl]
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\DepIncl\W-06-0001-000-001-001-001-00-00]
+"Version"="*.*.*.*"
+"bCheckVer"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization]
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\ARB]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\CHS]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\CHT]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\CSY]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\DAN]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\DEU]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\ENU]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\ESP]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\FIN]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\FRA]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\GRK]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\HBR]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\HNG]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\ITA]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\JPN]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\KOR]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\NLD]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\NOR]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\PLK]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\PTB]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\RSA]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\SVE]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\THA]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\TRK]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00]
+"ProductName"="AMD Catalyst 安装管理器"
+"PackageName"="ATICatalystInstallManager.msi"
+"PackagePath"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Apps\\CIM\\Win64\\"
+"DrvStoreInfPath"=""
+"DrivePackageInfPath"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Apps\\CIM\\Win64\\"
+"BackupPackagePath"=""
+"ProductGUID"="{E2078C11-E9EC-BD96-037C-A3423082F2BF}"
+"UpgradeGUID"="{AAE88A33-9A83-4A5E-B6D4-CC757954B06E}"
+"ATI_PID"="W-05-000U-000-003-002-001-00-00"
+"ATI_Build_id"="12345ABC"
+"OEM_ID"=" "
+"ProductVersion"="8.0.916.0"
+"PackageType"=dword:00000001
+"DriverFilesNotRemoved"="No"
+"NoUninstallSupport"="No"
+"GroupSelectAll"="No"
+"MfgName"="Advanced Micro Devices, Inc."
+"PackageDescription"="AMD CIM 安装套件"
+"InstallFile"="ATICatalystInstallManager.msi"
+"InstallOrder"=dword:00000009
+"breboot_req"=dword:00000000
+"RebootInstallCondition"=""
+"breboot_uninstall_req"=dword:00000000
+"RebootUninstallCondition"=""
+"iVisible"=dword:00000000
+"iInstallSuccess"=dword:00000000
+"UninstallCmdLine_silent"=" "
+"Date"=""
+"PackageSize"=dword:00B4D400
+"ProductSize"=dword:00000014
+"iPackageLevel"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\GroupSel]
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\GroupSel\W-06-0000-000-006-008-001-00-25]
+"Version"="*.*.*.*"
+"bCheckVer"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\GroupSel\W-06-0000-000-006-020-001-00-25]
+"Version"="*.*.*.*"
+"bCheckVer"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\GroupSel\W-06-0001-000-006-009-001-00-25]
+"Version"="*.*.*.*"
+"bCheckVer"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\GroupSel\W-06-0001-000-006-021-001-00-25]
+"Version"="*.*.*.*"
+"bCheckVer"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization]
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\CHS]
+"ProductName"="AMD Catalyst 安装管理器"
+"PackageDescription"="AMD CIM 安装套件"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\CHT]
+"ProductName"="AMD Catalyst 安裝管理員"
+"PackageDescription"="AMD CIM 安裝套件"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\CSY]
+"ProductName"="Správce instalace aplikace AMD Catalyst"
+"PackageDescription"="Instala?ní balí?ek AMD CIM"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\DAN]
+"ProductName"="AMD Catalyst Installationsh?ndtering"
+"PackageDescription"="AMD CIM-installationspakke"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\DEU]
+"ProductName"="AMD Catalyst-Installationsmanager"
+"PackageDescription"="AMD CIM-Installationspaket"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\ENU]
+"ProductName"="AMD Catalyst Install Manager"
+"PackageDescription"="AMD CIM installation package"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\ESP]
+"ProductName"="AMD Administrador de instalación Catalyst"
+"PackageDescription"="Paquete de instalación de AMD CIM"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\FIN]
+"ProductName"="AMD Catalyst -asennuksenhallinta"
+"PackageDescription"="AMD CIM -asennuspaketti"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\FRA]
+"ProductName"="AMD Gestionnaire d'installation de Catalyst"
+"PackageDescription"="Ensemble d'installation AMD CIM"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\GRK]
+"ProductName"="Διαχε?ριση εγκατ?σταση? AMD"
+"PackageDescription"="Πακ?το εγκατ?σταση? AMD CIM"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\HNG]
+"ProductName"="AMD Catalyst telepítéskezel?"
+"PackageDescription"="AMD CIM telepít?csomag"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\ITA]
+"ProductName"="AMD Catalyst - Gestione installazione"
+"PackageDescription"="Pacchetto d'installazione AMD CIM"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\JPN]
+"ProductName"="AMD Catalyst インストール マネージャー"
+"PackageDescription"="AMD CIM インストール パッケージ"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\KOR]
+"ProductName"="AMD Catalyst ?? ???"
+"PackageDescription"="AMD CIM ?? ???"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\NLD]
+"ProductName"="AMD Catalyst-installatiebeheer"
+"PackageDescription"="AMD CIM-installatiepakket"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\NOR]
+"ProductName"="AMD Catalyst Installasjonsbehandler"
+"PackageDescription"="AMD installasjonspakke for CIM"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\PLK]
+"ProductName"="Mened?er instalacji AMD Catalyst"
+"PackageDescription"="Pakiet instalacyjny AMD CIM"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\PTB]
+"ProductName"="Gerenciador de instala??o do AMD Catalyst"
+"PackageDescription"="Pacote de instala??o da AMD CIM"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\RSA]
+"ProductName"="Диспетчер установки AMD Catalyst"
+"PackageDescription"="Пакет установки AMD CIM"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\SVE]
+"ProductName"="Installationshanterare f?r AMD Catalyst"
+"PackageDescription"="Installationspaket f?r AMD CIM"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\THA]
+"ProductName"="?????????????????? AMD Catalyst"
+"PackageDescription"="????????????? AMD CIM"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\TRK]
+"ProductName"="AMD Catalyst Yükleme Y?neticisi"
+"PackageDescription"="AMD CIM yükleme paketi"
+
+[HKEY_LOCAL_MACHINE\Software\Wow6432Node\ATI Technologies\Install\ATI Catalyst Install Manager]
+"ProductCode"="{E2078C11-E9EC-BD96-037C-A3423082F2BF}"
+"Win64"="603"
+"ProductLang"="2052"
+"ReplacedFiles"=""
+"UILevel"="2"
+"LogonUser"="WWX"
+"UserLangID"="2052"
+"RepairString"="msiexec /fams {E2078C11-E9EC-BD96-037C-A3423082F2BF}"
+"UninstallString"="msiexec /q/x{E2078C11-E9EC-BD96-037C-A3423082F2BF} REBOOT=ReallySuppress"
+"InstallDir"="C:\\Program Files\\AMD\\CIM\\"
+"ReadMe"="C:\\Program Files\\AMD\\CIM\\Bin64\\readme.rtf"
+"ProductVersion"="8.0.916.0"
+"UpgradeCode"="{AAE88A33-9A83-4A5E-B6D4-CC757954B06E}"
+"ProductName"="AMD Catalyst Install Manager"
+"OriginalDB"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Apps\\CIM\\Win64\\ATICatalystInstallManager.msi"
+"InstallDate"="2016/10/9"
+"InstallTime"="20:09:46"
+"VerMSI"="5.00"
+"AdminUser"="1"
+"CIM_Reboot"="No"
+"ServicePackLvl"="0"
+"ComputerName"="DESKTOP-E9AKD7V"
+"WindowsBuild"="9600"
+"SysLanguageID"="2052"
+"ServicePackMinor"="0"
+"SourceDir"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Apps\\CIM\\Win64\\"
+"RootDrive"="C:\\"
+"WinNT"="603"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Apple Inc.]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Apple Inc.\Bonjour]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Apple Inc.\Bonjour\DynDNS]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Apple Inc.\Bonjour\DynDNS\Setup]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Apple Inc.\Bonjour\DynDNS\Setup\HostNames]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Apple Inc.\Bonjour\DynDNS\Setup\RegistrationDomains]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Apple Inc.\Bonjour\Services]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Apple Inc.\Bonjour\Services\SMB]
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25]
+"ProductName"="HDMI 音频驱动程序"
+"PackageName"="AtihdWT6.msi"
+"PackagePath"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Drivers\\WDM\\HDMI\\WT64A\\"
+"DrvStoreInfPath"="C:\\Windows\\System32\\DriverStore\\FileRepository\\atihdwt6.inf_amd64_87f813821358c4b3\\atihdwt6.inf"
+"DrivePackageInfPath"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Drivers\\WDM\\HDMI\\WT64A\\AtihdWT6.INF"
+"BackupPackagePath"=""
+"ProductGUID"="{62E03757-1E07-4038-B1F3-81B2C485A03C}"
+"UpgradeGUID"="{1D33FAB1-E76C-4155-B856-EA9F8AE96617}"
+"ATI_PID"="W-06-0001-000-001-039-001-00-25"
+"ATI_Build_id"="187327"
+"OEM_ID"=" "
+"ProductVersion"="10.0.0.01"
+"PackageType"=dword:00000002
+"DriverFilesNotRemoved"="No"
+"NoUninstallSupport"="No"
+"GroupSelectAll"="No"
+"MfgName"="Advanced Micro Devices, Inc."
+"PackageDescription"="AMD HDMI 音频设备驱动程序"
+"InstallFile"="AtihdWT6.MSI"
+"InstallOrder"=dword:00000025
+"breboot_req"=dword:00000000
+"RebootInstallCondition"=""
+"breboot_uninstall_req"=dword:00000000
+"RebootUninstallCondition"=""
+"iVisible"=dword:00000001
+"iInstallSuccess"=dword:00000000
+"UninstallCmdLine_silent"=" "
+"Date"=""
+"PackageSize"=dword:00040F7A
+"ProductSize"=dword:00000001
+"iPackageLevel"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization]
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\ARB]
+"ProductName"="AMD HDMI/DP Audio driver"
+"PackageDescription"="AMD HDMI/DP Audio driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\CHS]
+"ProductName"="HDMI 音频驱动程序"
+"PackageDescription"="AMD HDMI 音频设备驱动程序"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\CHT]
+"ProductName"="HDMI 音訊驅動程式"
+"PackageDescription"="AMD HDMI 音訊裝置驅動程式"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\CSY]
+"ProductName"="Ovlada? pro zvukové za?ízení HDMI"
+"PackageDescription"="Ovlada?e pro zvukové za?ízení AMD HDMI"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\DAN]
+"ProductName"="HDMI lyddriver"
+"PackageDescription"="Drivere til AMD HDMI lydenhed"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\DEU]
+"ProductName"="HDMI-Audiotreiber"
+"PackageDescription"="Treiber für das AMD HDMI-Audioger?t"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\ENU]
+"ProductName"="HDMI Audio Driver"
+"PackageDescription"="Drivers for AMD HDMI Audio Device"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\ESP]
+"ProductName"="Controlador de Audio HDMI"
+"PackageDescription"="Controladores para Dispositivo de Audio AMD HDMI"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\FIN]
+"ProductName"="HDMI-??niohjain"
+"PackageDescription"="AMD HDMI -??nilaitteen ohjaimet"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\FRA]
+"ProductName"="Pilote audio HDMI"
+"PackageDescription"="Pilotes pour périphérique audio HDMI AMD"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\GRK]
+"ProductName"="Πρ?γραμμα οδ?γηση? ?χου HDMI"
+"PackageDescription"="Προγρ?μματα οδ?γ. για συσκευ? ?χου HDMI τη? AMD"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\HBR]
+"ProductName"="AMD HDMI/DP Audio driver"
+"PackageDescription"="AMD HDMI/DP Audio driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\HNG]
+"ProductName"="HDMI audio illeszt?program"
+"PackageDescription"="Illeszt?programok az AMD HDMI audio eszk?zh?z"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\ITA]
+"ProductName"="Driver audio HDMI"
+"PackageDescription"="Driver per la periferica audio AMD HDMI"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\JPN]
+"ProductName"="HDMI オーディオ ドライバー"
+"PackageDescription"="AMD HDMI オーディオ デバイス用ドライバー"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\KOR]
+"ProductName"="HDMI ??? ????"
+"PackageDescription"="AMD HDMI ??? ??? ????"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\NLD]
+"ProductName"="HDMI-geluidsstuurprogramma"
+"PackageDescription"="Stuurprogramma's voor AMD HDMI-geluidsapparaat"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\NOR]
+"ProductName"="HDMI-lyddriver"
+"PackageDescription"="Drivere for AMD HDMI-lydenhet"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\PLK]
+"ProductName"="Sterownik audio HDMI"
+"PackageDescription"="Sterowniki urz?dzenia audio HDMI AMD"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\PTB]
+"ProductName"="Driver de áudio HDMI"
+"PackageDescription"="Drivers para dispositivo de áudio HDMI AMD"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\RSA]
+"ProductName"="Аудиодрайвер HDMI"
+"PackageDescription"="Драйверы для аудиоустройства AMD HDMI"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\SVE]
+"ProductName"="Drivrutin f?r HDMI-ljud"
+"PackageDescription"="Drivrutiner f?r AMD HDMI-ljudenhet"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\THA]
+"ProductName"="?????????????? HDMI"
+"PackageDescription"="??????????????????????????? AMD HDMI"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25\Localization\TRK]
+"ProductName"="HDMI Ses Sürücüsü"
+"PackageDescription"="AMD HDMI Ses Ayg?t? Sürücüleri"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25]
+"ProductName"="AMD AUDIO filter driver"
+"PackageName"="amdkmafd.msi"
+"PackagePath"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Drivers\\amdkmafd\\WT64A\\"
+"DrvStoreInfPath"="C:\\Windows\\System32\\DriverStore\\FileRepository\\amdkmafd.inf_amd64_fa259afa43660a25\\amdkmafd.inf"
+"DrivePackageInfPath"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Drivers\\amdkmafd\\WT64A\\amdkmafd.INF"
+"BackupPackagePath"=""
+"ProductGUID"="{8618695E-DF7C-402C-A597-E528FEA3F601}"
+"UpgradeGUID"="{45B3223C-741E-4835-94DA-A48A0ED10EDA}"
+"ATI_PID"="W-06-0301-000-001-070-001-00-25"
+"ATI_Build_id"="184091"
+"OEM_ID"=" "
+"ProductVersion"="15.20.0.0000"
+"PackageType"=dword:00000002
+"DriverFilesNotRemoved"="No"
+"NoUninstallSupport"="No"
+"GroupSelectAll"="No"
+"MfgName"="Advanced Micro Devices Inc."
+"PackageDescription"="AMD AUDIO filter driver"
+"InstallFile"="amdkmafd.MSI"
+"InstallOrder"=dword:00000013
+"breboot_req"=dword:00000001
+"RebootInstallCondition"=""
+"breboot_uninstall_req"=dword:00000000
+"RebootUninstallCondition"=""
+"iVisible"=dword:00000003
+"iInstallSuccess"=dword:00000000
+"UninstallCmdLine_silent"=" "
+"Date"=""
+"PackageSize"=dword:0001E5E1
+"ProductSize"=dword:00000001
+"iPackageLevel"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\DepIncl]
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\DepIncl\W-06-0001-000-001-001-001-00-00]
+"Version"="*.*.*.*"
+"bCheckVer"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization]
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\ARB]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\CHS]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\CHT]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\CSY]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\DAN]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\DEU]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\ENU]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\ESP]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\FIN]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\FRA]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\GRK]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\HBR]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\HNG]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\ITA]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\JPN]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\KOR]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\NLD]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\NOR]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\PLK]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\PTB]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\RSA]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\SVE]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\THA]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\TRK]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00]
+"ProductName"="AMD 显示驱动程序"
+"PackageName"="C0187327.msi"
+"PackagePath"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Drivers\\Display\\WT6A_INF\\"
+"DrvStoreInfPath"="C:\\Windows\\System32\\DriverStore\\FileRepository\\c0187327.inf_amd64_fe73cd7e88e37c2b\\c0187327.inf"
+"DrivePackageInfPath"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Drivers\\Display\\WT6A_INF\\C0187327.INF"
+"BackupPackagePath"=""
+"ProductGUID"="{24081A9C-8411-4541-AE31-86E1BBF5FE02}"
+"UpgradeGUID"="{0918E63D-7C5C-4D8E-A449-41D7921E389F}"
+"ATI_PID"="W-06-0001-000-001-001-001-00-00"
+"ATI_Build_id"="187327"
+"OEM_ID"=" "
+"ProductVersion"="15.200.1062.1002"
+"PackageType"=dword:00000002
+"DriverFilesNotRemoved"="No"
+"NoUninstallSupport"="No"
+"GroupSelectAll"="No"
+"IsPXDriver"=dword:00000001
+"MfgName"="Advanced Micro Devices, Inc."
+"PackageDescription"="适用于 AMD 显示适配器的驱动程序"
+"InstallFile"="C0187327.MSI"
+"InstallOrder"=dword:00000015
+"breboot_req"=dword:00000000
+"RebootInstallCondition"=""
+"breboot_uninstall_req"=dword:00000001
+"RebootUninstallCondition"=""
+"iVisible"=dword:00000001
+"iInstallSuccess"=dword:00000003
+"UninstallCmdLine_silent"=" "
+"Date"=""
+"PackageSize"=dword:0F9C218D
+"ProductSize"=dword:0000005A
+"iPackageLevel"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization]
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\ARB]
+"ProductName"="?????? ????? ????? AMD"
+"PackageDescription"="?????? ????? ????? ??? AMD"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\CHS]
+"ProductName"="AMD 显示驱动程序"
+"PackageDescription"="适用于 AMD 显示适配器的驱动程序"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\CHT]
+"ProductName"="AMD 顯示器驅動程式"
+"PackageDescription"="AMD 顯示卡專用驅動程式"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\CSY]
+"ProductName"="Graficky ovlada? AMD"
+"PackageDescription"="Ovlada? pro graficky adaptér AMD"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\DAN]
+"ProductName"="AMD-sk?rmdriver"
+"PackageDescription"="Driver til AMD-sk?rm-adapter"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\DEU]
+"ProductName"="AMD-Bildschirmtreiber"
+"PackageDescription"="Treiber für AMD-Grafikkarte"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\ENU]
+"ProductName"="AMD Display Driver"
+"PackageDescription"="Driver for AMD Display Adapter"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\ESP]
+"ProductName"="Controlador de pantalla AMD"
+"PackageDescription"="Controlador para el adaptador de pantalla AMD"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\FIN]
+"ProductName"="AMD-n?yt?nohjain"
+"PackageDescription"="AMD-n?ytt?sovittimen ohjain"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\FRA]
+"ProductName"="Pilote d'affichage AMD"
+"PackageDescription"="Pilote d'adaptateur d'affichage AMD"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\GRK]
+"ProductName"="Πρ?γραμμα οδ?γηση? οθ?νη? AMD"
+"PackageDescription"="Πρ?γραμμα οδ?γηση? για προσαρμογ?α οθ?νη? AMD"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\HBR]
+"ProductName"="???? ???? ????? ?? AMD"
+"PackageDescription"="???? ???? ???? ???? ????? ?? AMD"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\HNG]
+"ProductName"="AMD videokártya-illeszt?program"
+"PackageDescription"="Illeszt?program AMD videokártyához"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\ITA]
+"ProductName"="Driver video AMD"
+"PackageDescription"="Driver per scheda video AMD"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\JPN]
+"ProductName"="AMD ディスプレイ ドライバー"
+"PackageDescription"="AMD ディスプレイ アダプター用のドライバー"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\KOR]
+"ProductName"="AMD ????? ????"
+"PackageDescription"="AMD ????? ???? ????"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\NLD]
+"ProductName"="AMD-beeldschermstuurprogramma"
+"PackageDescription"="Stuurprogramma voor AMD-beeldschermadapter"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\NOR]
+"ProductName"="AMD-skjermdriver"
+"PackageDescription"="Driver for AMD-skjermkort"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\PLK]
+"ProductName"="Sterownik ekranu AMD"
+"PackageDescription"="Sterownik dla adaptera graficznego AMD"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\PTB]
+"ProductName"="Driver de vídeo AMD"
+"PackageDescription"="Driver para adaptador de vídeo da AMD"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\RSA]
+"ProductName"="Драйвер дисплея AMD"
+"PackageDescription"="Драйвер видеоплаты AMD"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\SVE]
+"ProductName"="AMD-grafikdrivrutin"
+"PackageDescription"="Drivrutin f?r AMD-grafikkort"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\THA]
+"ProductName"="???????? AMD Display"
+"PackageDescription"="?????????????? AMD Display Adaptor"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\Localization\TRK]
+"ProductName"="AMD Ekran Sürücüsü"
+"PackageDescription"="AMD Ekran Ba?da?t?r?c?s? i?in Sürücü"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages]
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25]
+"ProductName"="AMD AUDIO filter driver"
+"PackageName"="amdkmafd.msi"
+"PackagePath"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Drivers\\amdkmafd\\WT64A\\"
+"DrvStoreInfPath"="C:\\Windows\\System32\\DriverStore\\FileRepository\\amdkmafd.inf_amd64_fa259afa43660a25\\amdkmafd.inf"
+"DrivePackageInfPath"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Drivers\\amdkmafd\\WT64A\\amdkmafd.INF"
+"BackupPackagePath"=""
+"ProductGUID"="{8618695E-DF7C-402C-A597-E528FEA3F601}"
+"UpgradeGUID"="{45B3223C-741E-4835-94DA-A48A0ED10EDA}"
+"ATI_PID"="W-06-0301-000-001-070-001-00-25"
+"ATI_Build_id"="184091"
+"OEM_ID"=" "
+"ProductVersion"="15.20.0.0000"
+"PackageType"=dword:00000002
+"DriverFilesNotRemoved"="No"
+"NoUninstallSupport"="No"
+"GroupSelectAll"="No"
+"MfgName"="Advanced Micro Devices Inc."
+"PackageDescription"="AMD AUDIO filter driver"
+"InstallFile"="amdkmafd.MSI"
+"InstallOrder"=dword:00000013
+"breboot_req"=dword:00000001
+"RebootInstallCondition"=""
+"breboot_uninstall_req"=dword:00000000
+"RebootUninstallCondition"=""
+"iVisible"=dword:00000003
+"iInstallSuccess"=dword:00000000
+"UninstallCmdLine_silent"=" "
+"Date"=""
+"PackageSize"=dword:0001E5E1
+"ProductSize"=dword:00000001
+"iPackageLevel"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\DepIncl]
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\DepIncl\W-06-0001-000-001-001-001-00-00]
+"Version"="*.*.*.*"
+"bCheckVer"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization]
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\ARB]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\CHS]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\CHT]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\CSY]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\DAN]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\DEU]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\ENU]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\ESP]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\FIN]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\FRA]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\GRK]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\HBR]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\HNG]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\ITA]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\JPN]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\KOR]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\NLD]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\NOR]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\PLK]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\PTB]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\RSA]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\SVE]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\THA]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-06-0001-000-001-001-001-00-00\SubPackages\W-06-0301-000-001-070-001-00-25\Localization\TRK]
+"ProductName"="AMD AUDIO filter driver"
+"PackageDescription"="AMD AUDIO filter driver"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00]
+"ProductName"="AMD Catalyst 安装管理器"
+"PackageName"="ATICatalystInstallManager.msi"
+"PackagePath"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Apps\\CIM\\Win64\\"
+"DrvStoreInfPath"=""
+"DrivePackageInfPath"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Apps\\CIM\\Win64\\"
+"BackupPackagePath"=""
+"ProductGUID"="{E2078C11-E9EC-BD96-037C-A3423082F2BF}"
+"UpgradeGUID"="{AAE88A33-9A83-4A5E-B6D4-CC757954B06E}"
+"ATI_PID"="W-05-000U-000-003-002-001-00-00"
+"ATI_Build_id"="12345ABC"
+"OEM_ID"=" "
+"ProductVersion"="8.0.916.0"
+"PackageType"=dword:00000001
+"DriverFilesNotRemoved"="No"
+"NoUninstallSupport"="No"
+"GroupSelectAll"="No"
+"MfgName"="Advanced Micro Devices, Inc."
+"PackageDescription"="AMD CIM 安装套件"
+"InstallFile"="ATICatalystInstallManager.msi"
+"InstallOrder"=dword:00000009
+"breboot_req"=dword:00000000
+"RebootInstallCondition"=""
+"breboot_uninstall_req"=dword:00000000
+"RebootUninstallCondition"=""
+"iVisible"=dword:00000000
+"iInstallSuccess"=dword:00000000
+"UninstallCmdLine_silent"=" "
+"Date"=""
+"PackageSize"=dword:00B4D400
+"ProductSize"=dword:00000014
+"iPackageLevel"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\GroupSel]
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\GroupSel\W-06-0000-000-006-008-001-00-25]
+"Version"="*.*.*.*"
+"bCheckVer"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\GroupSel\W-06-0000-000-006-020-001-00-25]
+"Version"="*.*.*.*"
+"bCheckVer"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\GroupSel\W-06-0001-000-006-009-001-00-25]
+"Version"="*.*.*.*"
+"bCheckVer"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\GroupSel\W-06-0001-000-006-021-001-00-25]
+"Version"="*.*.*.*"
+"bCheckVer"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization]
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\CHS]
+"ProductName"="AMD Catalyst 安装管理器"
+"PackageDescription"="AMD CIM 安装套件"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\CHT]
+"ProductName"="AMD Catalyst 安裝管理員"
+"PackageDescription"="AMD CIM 安裝套件"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\CSY]
+"ProductName"="Správce instalace aplikace AMD Catalyst"
+"PackageDescription"="Instala?ní balí?ek AMD CIM"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\DAN]
+"ProductName"="AMD Catalyst Installationsh?ndtering"
+"PackageDescription"="AMD CIM-installationspakke"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\DEU]
+"ProductName"="AMD Catalyst-Installationsmanager"
+"PackageDescription"="AMD CIM-Installationspaket"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\ENU]
+"ProductName"="AMD Catalyst Install Manager"
+"PackageDescription"="AMD CIM installation package"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\ESP]
+"ProductName"="AMD Administrador de instalación Catalyst"
+"PackageDescription"="Paquete de instalación de AMD CIM"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\FIN]
+"ProductName"="AMD Catalyst -asennuksenhallinta"
+"PackageDescription"="AMD CIM -asennuspaketti"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\FRA]
+"ProductName"="AMD Gestionnaire d'installation de Catalyst"
+"PackageDescription"="Ensemble d'installation AMD CIM"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\GRK]
+"ProductName"="Διαχε?ριση εγκατ?σταση? AMD"
+"PackageDescription"="Πακ?το εγκατ?σταση? AMD CIM"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\HNG]
+"ProductName"="AMD Catalyst telepítéskezel?"
+"PackageDescription"="AMD CIM telepít?csomag"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\ITA]
+"ProductName"="AMD Catalyst - Gestione installazione"
+"PackageDescription"="Pacchetto d'installazione AMD CIM"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\JPN]
+"ProductName"="AMD Catalyst インストール マネージャー"
+"PackageDescription"="AMD CIM インストール パッケージ"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\KOR]
+"ProductName"="AMD Catalyst ?? ???"
+"PackageDescription"="AMD CIM ?? ???"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\NLD]
+"ProductName"="AMD Catalyst-installatiebeheer"
+"PackageDescription"="AMD CIM-installatiepakket"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\NOR]
+"ProductName"="AMD Catalyst Installasjonsbehandler"
+"PackageDescription"="AMD installasjonspakke for CIM"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\PLK]
+"ProductName"="Mened?er instalacji AMD Catalyst"
+"PackageDescription"="Pakiet instalacyjny AMD CIM"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\PTB]
+"ProductName"="Gerenciador de instala??o do AMD Catalyst"
+"PackageDescription"="Pacote de instala??o da AMD CIM"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\RSA]
+"ProductName"="Диспетчер установки AMD Catalyst"
+"PackageDescription"="Пакет установки AMD CIM"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\SVE]
+"ProductName"="Installationshanterare f?r AMD Catalyst"
+"PackageDescription"="Installationspaket f?r AMD CIM"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\THA]
+"ProductName"="?????????????????? AMD Catalyst"
+"PackageDescription"="????????????? AMD CIM"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\Packages\W-05-000U-000-003-002-001-00-00\Localization\TRK]
+"ProductName"="AMD Catalyst Yükleme Y?neticisi"
+"PackageDescription"="AMD CIM yükleme paketi"
+
+[HKEY_LOCAL_MACHINE\Software\ATI Technologies\Install\ATI Catalyst Install Manager]
+@=""
+"SourceDir"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Apps\\CIM\\Win64\\"
+"RootDrive"="C:\\"
+"WinNT"="603"
+"ProductCode"="{E2078C11-E9EC-BD96-037C-A3423082F2BF}"
+"Win64"="603"
+"ProductLang"="2052"
+"ReplacedFiles"=""
+"CIM_Reboot"="No"
+"UILevel"="2"
+"LogonUser"="WWX"
+"UserLangID"="2052"
+"RepairString"="msiexec /fams {E2078C11-E9EC-BD96-037C-A3423082F2BF}"
+"UninstallString"="msiexec /q/x{E2078C11-E9EC-BD96-037C-A3423082F2BF} REBOOT=ReallySuppress"
+"InstallDir"="C:\\Program Files\\AMD\\CIM\\"
+"ReadMe"="C:\\Program Files\\AMD\\CIM\\Bin64\\readme.rtf"
+"ProductVersion"="8.0.916.0"
+"UpgradeCode"="{AAE88A33-9A83-4A5E-B6D4-CC757954B06E}"
+"ProductName"="AMD Catalyst Install Manager"
+"OriginalDB"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Apps\\CIM\\Win64\\ATICatalystInstallManager.msi"
+"InstallDate"="2016/10/9"
+"InstallTime"="20:09:46"
+"VerMSI"="5.00"
+"AdminUser"="1"
+"ComputerName"="DESKTOP-E9AKD7V"
+"WindowsBuild"="9600"
+"SysLanguageID"="2052"
+"ServicePackLvl"="0"
+"ServicePackMinor"="0"
+
+[HKEY_CLASSES_ROOT\WDExpress.shproj.14.0\shell\Open\Command]
+@="\"C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\Common7\\IDE\\WDExpress.exe\" \"%1\""
+
+[HKEY_CLASSES_ROOT\VSWinExpress.shproj.14.0\shell\Open\Command]
+@="\"C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\Common7\\IDE\\VSWinExpress.exe\" \"%1\""
+
+[HKEY_CLASSES_ROOT\PotPlayerMini64.DAT\shell\play\command]
+@="\"D:\\WinNT\\PotPlayer_V1.6.62949B_X64\\PotPlayerMini64.exe\" \"%1\""
+
+[HKEY_CLASSES_ROOT\PotPlayerMini64.DAT\shell\play]
+@="用 PotPlayer 播放(&P)"
+"Icon"="D:\\WinNT\\PotPlayer_V1.6.62949B_X64\\PotPlayerMini64.exe"
+
+[HKEY_CLASSES_ROOT\PotPlayerMini64.DAT\shell\play\command]
+@="\"D:\\WinNT\\PotPlayer_V1.6.62949B_X64\\PotPlayerMini64.exe\" \"%1\""
+
+[HKEY_CLASSES_ROOT\PotPlayerMini64.DAT\shell\play\DropTarget]
+"Clsid"="{7CAD4875-0AB6-4178-9E77-7EFB04692A19}"
+
+[HKEY_CLASSES_ROOT\PotPlayerMini64.DAT\shell\open\command]
+@="\"D:\\WinNT\\PotPlayer_V1.6.62949B_X64\\PotPlayerMini64.exe\" \"%1\""
+
+[HKEY_CLASSES_ROOT\PotPlayerMini64.DAT\shell\open]
+"Icon"="D:\\WinNT\\PotPlayer_V1.6.62949B_X64\\PotPlayerMini64.exe"
+
+[HKEY_CLASSES_ROOT\PotPlayerMini64.DAT\shell\open\command]
+@="\"D:\\WinNT\\PotPlayer_V1.6.62949B_X64\\PotPlayerMini64.exe\" \"%1\""
+
+[HKEY_CLASSES_ROOT\PotPlayerMini64.DAT\shell\open\DropTarget]
+"Clsid"="{7CAD4875-0AB6-4178-9E77-7EFB04692A19}"
+
+[HKEY_CLASSES_ROOT\PotPlayerMini64.DAT\shell\Enqueue\command]
+@="\"D:\\WinNT\\PotPlayer_V1.6.62949B_X64\\PotPlayerMini64.exe\" \"%1\" /ADD"
+
+[HKEY_CLASSES_ROOT\PotPlayerMini64.DAT\shell\Enqueue]
+@="添加到 PotPlayer 播放列表(&I)"
+"Icon"="D:\\WinNT\\PotPlayer_V1.6.62949B_X64\\PotPlayerMini64.exe"
+
+[HKEY_CLASSES_ROOT\PotPlayerMini64.DAT\shell\Enqueue\command]
+@="\"D:\\WinNT\\PotPlayer_V1.6.62949B_X64\\PotPlayerMini64.exe\" \"%1\" /ADD"
+
+[HKEY_CLASSES_ROOT\PotPlayerMini64.DAT\shell\Enqueue\DropTarget]
+"Clsid"="{6712D17C-CEB6-4886-9641-427AF3D488B7}"
+
+[HKEY_CLASSES_ROOT\Installer\Products\D7314F9862C648A4DB8BE2A5B47BE100\SourceList\Net]
+"1"="g:\\80bcadf003aeb7bbfe\\"
+
+[HKEY_CLASSES_ROOT\Installer\Products\c1c4f01781cc94c4c8fb1542c0981a2a\SourceList\Net]
+"1"="C:\\Windows\\Temp\\Go_VC_Runtime_x86_x64_full.2096.temp\\files\\vc2005\\vcredist_x86\\"
+
+[HKEY_CLASSES_ROOT\Installer\Products\8F229D7349097C4489AD1CC097FE08DC\SourceList\Net]
+"1"="C:\\Program Files (x86)\\Microsoft SQL Server Compact Edition\\Installer\\"
+
+[HKEY_CLASSES_ROOT\Installer\Products\6E815EB96CCE9A53884E7857C57002F0\SourceList\Net]
+"1"="g:\\559b39b31d13ab6025faf79e22c1\\"
+
+[HKEY_CLASSES_ROOT\Installer\Products\67D6ECF5CD5FBA732B8B22BAC8DE1B4D\SourceList\Net]
+"1"="g:\\4a565c9964a78ceffcd73c\\"
+
+[HKEY_CLASSES_ROOT\Installer\Products\4BE02D7D98DB0C50506C335E7B2689E9\SourceList\Net]
+"1"="C:\\AMD\\WU-CCC2\\ccc2_install\\MOM-InstallProxy-Net4\\"
+
+[HKEY_CLASSES_ROOT\Installer\Products\1D5E3C0FEDA1E123187686FED06E995A\SourceList\Net]
+"1"="g:\\d7ca542e772d6e2e4faa9564350507bd\\"
+
+[HKEY_CLASSES_ROOT\Installer\Products\1af2a8da7e60d0b429d7e6453b3d0182\SourceList\Net]
+"1"="C:\\Windows\\Temp\\Go_VC_Runtime_x86_x64_full.2096.temp\\files\\vc2005\\vcredist_x64\\"
+
+[HKEY_CLASSES_ROOT\Installer\Products\1926E8D15D0BCE53481466615F760A7F\SourceList\Net]
+"1"="g:\\0aa8308d8758cf67a5f61a\\"
+
+[HKEY_CLASSES_ROOT\Installer\Products\11C8702ECE9E69DB30C73A2403282FFB\SourceList\Net]
+"1"="C:\\AMD\\AMD-Catalyst-15.7.1-Win10-64bit\\Packages\\Apps\\CIM\\Win64\\"
+
+[HKEY_CLASSES_ROOT\Installer\Patches\A64A2A5105FCC8D488AB2CE06507D6E0\SourceList\Net]
+"1"="g:\\80bcadf003aeb7bbfe\\"
+
+[HKEY_CLASSES_ROOT\Installer\Patches\4D54076CED4F5BA32BBD3E5FAD1CD4C9\SourceList\Net]
+"1"="g:\\0aa8308d8758cf67a5f61a\\"
+
+[HKEY_CLASSES_ROOT\Installer\Patches\2D0058F6F08A743309184BE1178C95B2\SourceList\Net]
+"1"="g:\\d7ca542e772d6e2e4faa9564350507bd\\"
+
+[HKEY_CLASSES_ROOT\Installer\Patches\19C5708CC475C094FA6483858ABCECF0\SourceList\Net]
+"1"="g:\\80bcadf003aeb7bbfe\\"
